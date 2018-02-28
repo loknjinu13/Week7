@@ -34,14 +34,14 @@ Core computer science skills include *data structures*,*algorithm analysis*,*imp
     - [x] Hackathon participation.
 
   It is necessary one should present the contributions made from that of the team in the resume as well as what the project is all about. According to [Dan Blumenthal](https://dandreamsofcoding.com/2014/03/03/what-to-do-if-you-dont-get-a-summer-internship/) there are many ways one can build the resume if no possibility of an internship.\
- Ensure you build something which will be *visible*, *publicly accessible* and *completed*.\ 
+ Ensure you build something which will be *visible*, *publicly accessible* and *completed*.\
 Participating in *Open Source* projects is an added experience.\
  Writing an app for smartphones from scratch is another initiative, while starting a company with friends will give more valuable experience.\
  In addition, building a network with other engineers, writing a blog periodically or keep practicing on building your skills as they will all lead to increase your experience.
 
   It is important to take your *interview* preparation seriously focusing on your communication skills and technical skills.\
  It is essential to talk about your experiences and projects both broadly and in technical details.\
- Enthusiasm about the company and your possible role should be expressive.\ 
+ Enthusiasm about the company and your possible role should be expressive.\
 Exploring the company site and products and possible suggestions you might improve.\
  In addition, knowing the company's dress code and asking questions on the culture of the company in order to be sure you can work in such an environment.
 
